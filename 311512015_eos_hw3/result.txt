@@ -1,0 +1,4 @@
+Total : 707
+Child : 399
+Adult : 308
+Elder : 0
